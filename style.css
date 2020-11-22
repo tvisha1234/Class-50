@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/3d-perspective-style-diamond-shape-white-background_1017-27556.jpg?size=626&ext=jpg");
+    font-family: cursive;
+    }
+h5{
+    color: black;
+}
+h1{
+    color:crimson;
+}
+#img2{
+    width : 200;
+    height : 200;
+
+}
+p{
+    color: black;
+}
+
+*{
+    border: solid;
+}
+
+#questions{
+    background-color: palevioletred;
+    backface-visibility: hidden;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}
+i{
+    background-color: ivory;
+}
